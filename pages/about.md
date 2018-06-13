@@ -13,11 +13,11 @@ permalink: /about/
 The Historical Japanese Ceramic Comparative Collection (HJCCC) contains digital photographs and resources for identifying and describing Japanese ceramics manufactured during the Meiji and Taisho eras (roughly the nineteenth to early twentieth centuries). 
 The intent of this collection is to provide archaeologists and other researchers with comparative examples of historical Japanese ceramics that are found on North American archaeological sites.
 
-###Background
+### Background
 Many of the ceramics in this collection originally belonged to a diverse group of Japanese laborers, families, and American citizens who arrived in North America between approximately 1880 and 1924 and who are collectively known as Issei (Densho Encyclopedia 2017).  
 As material remnants of daily life; these ceramics not only provide insight into the nineteenth and twentieth-century Japanese ceramics industry and international exchanges of art, technology, and commercial goods; they also contribute to studies examining the experiences of Issei and their descendants.  
 
-###The Collection
+### The Collection
 
 Although the HJCCC is not an exhaustive type collection of historical Japanese ceramics, the vessels it contains are examples of an important artifact class about which relatively little has been published.
 The intent of this collection is to assist in identification of historical Japanese ceramics, to help standardize terminology, and to encourage further research.
