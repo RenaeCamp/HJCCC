@@ -27,6 +27,7 @@ layout: page
                 <a class="btn btn-sm btn-secondary m-1 filter" data-filter="{{ item[f] | trim |escape }}" href="{{ item[f] | trim | uri_escape | prepend: "/browse/#" | relative_url }}">{{ item[f] }}</a> 
             {% endfor %} 
             </p>
+            <p class="card-text"><b>Vessel Form:</b>{{ item.vessel-form}}</p>
             <p class="card-text">{{ item.description | truncatewords: 20 }}</p>
             <p>
                 <a href="{{ '/data/' | absolute_url | append: item.object-id | append: '.html' }}" class="btn btn-sm btn-info" title="link to {{ item.title | escape }}">Go to Item</a>
