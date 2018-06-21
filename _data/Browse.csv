@@ -1,0 +1,33 @@
+﻿Field,Display,Notes,On Card?
+title,Yes,top; bold,x
+catalog-number,Yes,bold,x
+source,Yes,bold,x
+description,Yes,bold; abbreviated,x
+site-location,No,searchable but hidden,x
+site-date,No,searchable but hidden,x
+subjects,No,Is making this searchable but hidden the same as making everything else searchable but hidden?,
+functional-category,No,searchable but hidden,x
+material,Yes,bold,x
+vessel-form,Yes,bold,x
+artifact-dimensions,No,searchable but hidden,x
+pigment-application,No,searchable but hidden,x
+decoration-type,Yes,bold,x
+exterior-decoration-method,No,searchable but hidden,x
+exterior-decoration-color,No,searchable but hidden,x
+exterior-decoration-elements,No,searchable but hidden,x
+interior-decoration-method,No,searchable but hidden,x
+interior-decoration-color,No,searchable but hidden,x
+interior-decoration-elements,No,searchable but hidden,x
+marks,No,searchable but hidden,x
+manufacture-origin,No,Doesn't need to be visable or searchable,
+manufacture-range,No,Doesn't need to be visable or searchable,
+publisher,No,Doesn't need to be visable or searchable,
+rights,No,Doesn't need to be visable or searchable,
+standardized-rights,No,Doesn't need to be visable or searchable,
+preferred-image-citation,No,Doesn't need to be visable or searchable,
+identifier,No,Doesn't need to be visable or searchable,
+metadata-creator,No,Doesn't need to be visable or searchable,
+format,No,Doesn't need to be visable or searchable,
+type,No,Doesn't need to be visable or searchable,
+cdm-number,No,Doesn't need to be visable or searchable,
+compound-numbers,No,Doesn't need to be visable or searchable,
