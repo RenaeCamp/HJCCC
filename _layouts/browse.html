@@ -38,13 +38,13 @@ layout: page
             <p class="d-none card-text">{{ item.site-date}}</p>
             <p class="d-none card-text">{{ item.functional-category}}</p>
             <p class="d-none card-text">{{ item.pigment-application}}</p>
-            <p class="d-none card-text">{{ exterior-decoration-method}}</p>
-            <p class="d-none card-text">{{ exterior-decoration-color}}</p>
-            <p class="d-none card-text">{{ exterior-decoration-elements}}</p>
-            <p class="d-none card-text">{{ interior-decoration-method}}</p>
-            <p class="d-none card-text">{{ interior-decoration-color}}</p>
-            <p class="d-none card-text">{{ interior-decoration-elements}}</p>
-            <p class="d-none card-text">{{ marks}}</p>
+            <p class="d-none card-text">{{ item.exterior-decoration-method}}</p>
+            <p class="d-none card-text">{{ item.exterior-decoration-color}}</p>
+            <p class="d-none card-text">{{ item.exterior-decoration-elements}}</p>
+            <p class="d-none card-text">{{ item.interior-decoration-method}}</p>
+            <p class="d-none card-text">{{ item.interior-decoration-color}}</p>
+            <p class="d-none card-text">{{ item.interior-decoration-elements}}</p>
+            <p class="d-none card-text">{{ item.marks}}</p>
             <p>
                 <a href="{{ '/data/' | absolute_url | append: item.object-id | append: '.html' }}" class="btn btn-sm btn-info" title="link to {{ item.title | escape }}">Go to Item</a>
             </p>
